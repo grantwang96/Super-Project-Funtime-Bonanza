@@ -1,0 +1,15 @@
+You're probably learning to repo. Again. At least you're not stuck with the command line, right?
+Right?
+
+Well, either way.
+
+Terms
+	Commit: A version.
+	Repo: A folder with all your files n' stuff.
+	Initialize: Starting a repository(can be done locally or remotely)
+	Branch: 
+	Master: Default branch
+	Remote: Off your hard drive
+	Local: On your hard drive
+	Work in Progress:
+	Staging: Deciding what work to put in a commit.
